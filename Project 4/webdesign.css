@@ -1,0 +1,516 @@
+h1{
+   color :white;
+   text-align: center;
+   font-size: 60px;
+}
+p{
+    color:rgb(254, 209, 217);
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+
+}
+.search-container {
+    text-align:center;
+    align-items: center;
+    height:50px;
+    border-color: aliceblue;
+    padding:30px 20px 30px 20px;
+
+}
+.search-container button {
+    text-align:center;
+    padding: 6px 10px;
+    margin-top: 10px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    background-color:aquamarine;
+  }
+  .search-container button:hover {
+    background: #ccc;
+  }
+#search{
+    text-align: left;
+    margin: 0;
+    padding: 10px 0px 10px 0px ;
+    height: 10px;
+    width:300px;
+  }
+#search{
+    border: 1px solid #ccc;  
+  }
+ 
+ #pro{
+    margin-left: 10px;
+    background-color:white;
+    border-radius: 20%;
+    height: 40px;
+    width:100px;
+    border-color: whitesmoke;
+
+ }
+#get{
+    background-color: pink;
+    border-radius:20%;
+    height:40px;
+    width:100px;
+    border-color: whitesmoke;
+}
+#create{
+    background-color:rgb(234, 234, 70);
+    border-radius:20%;
+    border-right: 20px;
+    height:40px;
+    width:120px;
+    border-color: whitesmoke;
+}
+#log{
+    background-color: rgb(9, 177, 9);
+    border-radius:20%;
+    height: 40px;
+    width:100px;
+    border-color: whitesmoke;
+
+}
+
+.head{
+    display: inline;
+    display: flex;
+    justify-content: space-between;
+}
+#bootcamp{
+    margin-right: 400px;
+    width: 100px;
+    height: 40px;
+    border-color: white;
+}
+#bootcamp:hover{
+    color:rgb(98, 98, 207);
+}
+
+#tutorials{
+    width: 100px;
+    height: 40px;
+    border-color: white;
+    margin-right: 10px;
+}
+#tutorials:hover{
+    color:rgb(98, 98, 207);
+}
+.para{
+    color: white;
+}
+#pop{
+    color:white;
+    text-align: center;
+}
+#pop:hover{
+    color: rgb(98, 98, 207);
+}
+.head{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#div2{
+    background-color: rgb(153, 251, 251);
+    height: 400px;
+}
+#para1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    padding-top: 20px;
+}
+#para12{
+    text-align: center;
+    font-size: 20px;
+    color:black;
+}
+#html1{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color: rgb(71, 212, 71);
+          margin-right: 10px;
+          color:white;
+          font-size: larger;
+          border-color: rgb(153, 251, 251);
+}
+#html2{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:black;
+          margin-right: 10px;
+          color:white;
+          font-size: larger;
+          border-color: rgb(153, 251, 251);
+}
+#html3{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:pink;
+          margin-right: 10px;
+          color:black;
+          font-size: larger;
+          border-color: rgb(153, 251, 251);
+}
+#div3{
+    background-color: rgb(246, 246, 127);
+    height: 400px;
+}
+#para2{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    padding-top: 20px;
+}
+#para21{
+    text-align: center;
+    font-size: 20px;
+    color:black;
+}
+#css1{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color: rgb(71, 212, 71);
+          margin-right: 10px;
+          color:white;
+          font-size: larger;
+          border-color: rgb(246, 246, 127);
+}
+#css2{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:black;
+          margin-right: 10px;
+          color:white;
+          font-size: larger;
+          border-color: rgb(246, 246, 127);
+}
+#css3{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:pink;
+          margin-right: 10px;
+          color:black;
+          font-size: larger;
+          border-color:  rgb(246, 246, 127);
+}
+#div4{
+    height: 400px;
+}
+#para3{
+    text-align: center;
+    font-size: 50px;
+    color:white;
+    padding-top: 20px;
+}
+#para31{
+    text-align: center;
+    font-size: 20px;
+    color:white;
+}
+#js1{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color: rgb(71, 212, 71);
+          margin-right: 10px;
+          color:black;
+          font-size: larger;
+}
+#js2{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:white;
+          margin-right: 10px;
+          color:black;
+          font-size: larger;
+}
+#js3{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:pink;
+          margin-right: 10px;
+          color:white;
+          font-size: larger;
+}
+#div5{
+    height: 400px;
+    background-color: whitesmoke;
+}
+#para4{
+    text-align: center;
+    font-size: 50px;
+    color:black;
+    padding-top: 20px;
+}
+#para41{
+    text-align: center;
+    font-size: 20px;
+    color:black;
+}
+#py1{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color: rgb(71, 212, 71);
+          margin-right: 10px;
+          color:white;
+          font-size: larger;
+          border-color: whitesmoke;
+}
+#py2{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:black;
+          margin-right: 10px;
+          color:white;
+          font-size: larger;
+          border-color: whitesmoke;
+}
+#py3{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:pink;
+          margin-right: 10px;
+          color:black;
+          font-size: larger;
+          border-color: whitesmoke;
+}
+#div6{
+    height: 400px;
+    background-color:rgb(163, 207, 243);
+}
+#para5{
+    text-align: center;
+    font-size: 50px;
+    color:black;
+    padding-top: 20px;
+}
+#para51{
+    text-align: center;
+    font-size: 20px;
+    color:black;
+}
+#sql1{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color: rgb(71, 212, 71);
+          margin-right: 10px;
+          color:white;
+          font-size: larger;
+          border-color:rgb(163, 207, 243) ;
+}
+#sql2{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:black;
+          margin-right: 10px;
+          color:white;
+          font-size: larger;
+          border-color:rgb(163, 207, 243) ;
+
+}
+#sql3{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:pink;
+          margin-right: 10px;
+          color:black;
+          font-size: larger;
+          border-color:rgb(163, 207, 243) ;
+
+}
+.grid-container1 {
+    display: grid;
+    gap: 50px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    padding-left: 200px;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+  }
+  .grid-container2 {
+    display: grid;
+    gap: 50px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    padding-left: 200px;
+  }
+  .grid-container3 {
+    display: grid;
+    gap: 50px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    padding-left: 200px;
+  }
+  #div7{
+    background-color: pink;
+  }
+  #para6{
+    color:black;
+    font-size: 30px;
+
+  }
+  #para61{
+    color:black
+  }
+  #php{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:black;
+          margin-right: 10px;
+          color:white;
+          font-size: 20px;
+          border-color:pink;
+
+  }
+  #div8{
+    background-color:  rgb(246, 246, 127);
+  }
+  #para62{
+    color:black;
+    font-size: 30px;
+
+  }
+  #para621{
+    color:black
+  }
+  #jq{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:black;
+          margin-right: 10px;
+          color:white;
+          font-size: 20px;
+          border-color:rgb(246, 246, 127);
+
+  }
+  #div9{
+    background-color:  rgb(242, 236, 236);
+  }
+  #para7{
+    color:black;
+    font-size: 30px;
+
+  }
+  #para71{
+    color:black
+  }
+  #java{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:black;
+          margin-right: 10px;
+          color:white;
+          font-size: 20px;
+          border-color:rgb(242, 236, 236);
+
+  }
+  #div10{
+    background-color:rgb(198, 209, 219);
+  }
+  #para72{
+    color:black;
+    font-size: 30px;
+
+  }
+  #para721{
+    color:black
+  }
+  #cara1{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:black;
+          margin-right: 10px;
+          color:white;
+          font-size: 20px;
+          border-color:rgb(198, 209, 219);
+
+  }
+  #div11{
+    background-color:rgb(101, 198, 201);
+  }
+  #para8{
+    color:black;
+    font-size: 30px;
+
+  }
+  #para81{
+    color:black
+  }
+  #w3{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:black;
+          margin-right: 10px;
+          color:white;
+          font-size: 20px;
+          border-color:rgb(101, 198, 201);
+
+  }
+  #div12{
+    background-color:rgb(228, 231, 231);
+  }
+  #para82{
+    color:black;
+    font-size: 30px;
+
+  }
+  #para821{
+    color:black
+  }
+  #bt{
+    border-radius:10%;
+        height:50px;
+          width:200px;
+          background-color:black;
+          margin-right: 10px;
+          color:white;
+          font-size: 20px;
+          border-color:rgb(228, 231, 231);
+
+  }
+  #map{
+    color:white;
+    font-size: 70px;
+    text-align: center;
+    margin-right: 40px;
+  }
+  #pyp{
+    color:white;
+  }
